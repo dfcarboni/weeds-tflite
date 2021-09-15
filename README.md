@@ -1,6 +1,12 @@
 # weeds-TFLite
 TFLite Object Detection
 
+Basic training of a TFlite Efficient-det object detection model for usage with Raspberry PI4.  
+The database is part of : "Sistema para identificação de plantas invasoras em lavouras com detectores de objetos aplicados a imagens e vídeos" (Carboni, D.; 2021)  
+Published in:  
+https://lume.ufrgs.br/handle/10183/222610  
+  
+  
 # TFLite Training File 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carboni123/weeds-tflite/blob/main/TFlite_trainweeds.ipynb)
 
